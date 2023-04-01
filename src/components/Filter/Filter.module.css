@@ -1,0 +1,21 @@
+.filterItem {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.filterInput {
+  font-size: 14px;
+  font-weight: 400;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 4px 10px;
+}
+
+.filterInput:focus {
+  outline: 2px solid #647aaa;
+}

@@ -1,0 +1,21 @@
+.contactListItem {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.contactListButton {
+  padding: 1px 5px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  cursor: pointer;
+  font-size: 11px;
+  text-transform: capitalize;
+  box-shadow: 2px 2px 2px 0px rgba(142, 146, 148, 0.4);
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.contactListButton:hover {
+  background-color: #7ca6c9;
+}
